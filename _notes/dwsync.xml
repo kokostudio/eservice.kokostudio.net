@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".htaccess" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131861424958391080" remote="131995771800000000" Dst="0" />
+<file name="404.html" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131895935117232766" remote="131995771800000000" Dst="0" />
+<file name="category.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008128781355968" remote="132007876200000000" Dst="0" />
+<file name="change_pwd.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008107493611364" remote="132007855200000000" Dst="0" />
+<file name="composer.json" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131779934276262961" remote="131995771800000000" Dst="0" />
+<file name="computers.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011766661692513" remote="132011514600000000" Dst="0" />
+<file name="dashboard.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008124330569043" remote="132007872000000000" Dst="0" />
+<file name="composer.lock" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131779934353936452" remote="131995771800000000" Dst="0" />
+<file name="departments.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132009886456575082" remote="132009634200000000" Dst="0" />
+<file name="eservice.sql" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131892477672408214" remote="131995771800000000" Dst="0" />
+<file name="getService.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008149821342127" remote="132007897800000000" Dst="0" />
+<file name="index.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131999431928323556" remote="131999179800000000" Dst="0" />
+<file name="line.txt" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131995082934876238" remote="131995771800000000" Dst="0" />
+<file name="log.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011772832390541" remote="132011520600000000" Dst="0" />
+<file name="logout.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131866440235591202" remote="131995771800000000" Dst="0" />
+<file name="manage.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011776434365773" remote="132011524200000000" Dst="0" />
+<file name="package-lock.json" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131889720565057119" remote="131995782000000000" Dst="0" />
+<file name="package.json" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131889720564617927" remote="131995782000000000" Dst="0" />
+<file name="print.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131897462586111874" remote="131995782000000000" Dst="0" />
+<file name="profile.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011777430070696" remote="132011525400000000" Dst="0" />
+<file name="report_computer.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131897508552883867" remote="131995782600000000" Dst="0" />
+<file name="report_excel.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131897619816357855" remote="131995782600000000" Dst="0" />
+<file name="report_request.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131897618265796485" remote="131995782600000000" Dst="0" />
+<file name="report_user.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131897509443595426" remote="131995782600000000" Dst="0" />
+<file name="request.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011791034413443" remote="132011538600000000" Dst="0" />
+<file name="request_manage.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011729690822301" remote="132011477400000000" Dst="0" />
+<file name="request_view.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008313397482305" remote="132008061000000000" Dst="0" />
+<file name="service.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008166398132511" remote="132007914000000000" Dst="0" />
+<file name="software.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011764909444559" remote="132011512800000000" Dst="0" />
+<file name="status.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132009862936071504" remote="132009610800000000" Dst="0" />
+<file name="system.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132008118646054776" remote="132007866600000000" Dst="0" />
+<file name="template.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131895935122839540" remote="131995782600000000" Dst="0" />
+<file name="users.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="132011773338794460" remote="132011521200000000" Dst="0" />
+<file name="คู่มือตั้งค่าระบบ.pdf" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131892507099240526" remote="131995792200000000" Dst="0" />
+<file name="users.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132015978450740145" remote="132015726000000000" Dst="0" />
+<file name="request.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132035791235416069" remote="132035539200000000" Dst="0" />
+<file name="report_request.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="131995782600000000" remote="131995782600000000" Dst="0" />
+<file name="manage.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132035790720023825" remote="132035538600000000" Dst="0" />
+<file name="request_manage.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132011477400000000" remote="132011477400000000" Dst="0" />
+<file name="computers.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132035896342760983" remote="132035644200000000" Dst="0" />
+<file name="dashboard.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132007872000000000" remote="132007872000000000" Dst="0" />
+<file name="index.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132013213800000000" remote="132013213800000000" Dst="0" />
+<file name=".htaccess" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="131995620000000000" remote="131995620000000000" Dst="0" />
+<file name="log.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132013962000000000" remote="132013962000000000" Dst="0" />
+</dwsync>

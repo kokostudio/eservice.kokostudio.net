@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractBarcode.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="BarcodeException.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="BarcodeInterface.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Codabar.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Code11.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Code39.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Code128.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Code93.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="EanExt.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="EanUpc.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="I25.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Msi.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Imb.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Postnet.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655605953" remote="131995783200000000" Dst="0" />
+<file name="Rm4Scc.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655762191" remote="131995783200000000" Dst="0" />
+<file name="S25.php" server="office.kokostudio.net//domains/office.kokostudio.net/public_html/" local="131777410655762191" remote="131995783200000000" Dst="0" />
+</dwsync>
