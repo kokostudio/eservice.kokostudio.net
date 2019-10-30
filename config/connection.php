@@ -1,9 +1,9 @@
 <?php
   $dbhost = 'localhost';
-  $dbname = 'kokostudio_eserv';
+  $dbname = '';
   $dbchar = 'utf8';
-  $dbuser = 'kokostudio_eserv';
-  $dbpass = 'pluems';
+  $dbuser = '';
+  $dbpass = '';
 
   $options = [
     PDO::ATTR_ERRMODE            => PDO::ERRMODE_EXCEPTION,
