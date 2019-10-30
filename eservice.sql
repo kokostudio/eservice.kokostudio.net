@@ -213,9 +213,7 @@ CREATE TABLE `ex_login` (
 INSERT INTO `ex_login` (`login_id`, `user_code`, `user_username`, `user_password`, `login_create`, `login_update`) VALUES
 (1, '111111', 'user', '$2y$10$QwwrbUQyM2pxr77evKi3BOzCvVOcZGkWUW27QNNcO.Q2sNLh092eO', '2018-11-19 11:08:08', '2018-12-14 07:47:45'),
 (2, '999999', 'admin', '$2y$10$SUmvag445gTuIjm.6WnP2O8cGUx6d6DfX/z0VR49Tl.Ke1jB7G8y6', '2018-11-19 11:35:15', '2018-11-21 10:07:54'),
-(3, '777777', 'manage', '$2y$10$/xbqD0vpXQqB10i.cvSzk.NXkFFUyjfjfFhF7mVPoKLpc3Em1kN4G', '2018-11-22 08:05:48', '2018-12-14 07:47:41'),
-(4, 'test', 'test', '$2y$10$6H1imhShopufMh4wUJPJk.xYYCDiPxxDwBq4.tp/H2uYijxt8E41e', '2019-04-29 12:13:36', '2019-04-29 05:13:36'),
-(5, 'watchara', 'watchara', '$2y$10$/JVcVswbOxgYnuBv/BlPG.GB1qv6lWsoNJAT9PJx4mgpo/M15/s9a', '2019-05-03 09:42:41', '2019-05-03 02:42:41');
+(3, '777777', 'manage', '$2y$10$/xbqD0vpXQqB10i.cvSzk.NXkFFUyjfjfFhF7mVPoKLpc3Em1kN4G', '2018-11-22 08:05:48', '2018-12-14 07:47:41');
 
 -- --------------------------------------------------------
 
@@ -428,9 +426,7 @@ CREATE TABLE `ex_user` (
 INSERT INTO `ex_user` (`user_id`, `user_code`, `user_name`, `user_surname`, `user_picture`, `user_nickname`, `dep_id`, `user_email`, `user_telephone`, `user_mobile`, `user_line`, `user_level`, `user_status`, `user_create`, `user_update`) VALUES
 (1, '111111', 'User', 'test', '1234.jpg', 'User', 2, 'user@test.com', '', '', '', 1, 1, '2018-11-19 11:08:08', '2018-12-14 07:48:23'),
 (2, '999999', 'Administrator', 'System', '999999.jpg', 'Administrator', 1, 'admin@test.com', '', '', '', 99, 1, '2018-11-19 11:35:15', '2018-12-14 07:41:00'),
-(3, '777777', 'Manage', 'test', '330333.jpg', 'Manage', 1, 'manage@test.com', '', '', '', 69, 1, '2018-11-22 08:05:48', '2018-12-14 07:48:20'),
-(4, 'test', 'test', 'บุตรโท', '', 'test', 1, 'kokostudio@hotmail.com', '0866396298', '', '', 1, 1, '2019-04-29 12:13:36', '2019-05-03 08:39:13'),
-(5, 'watchara', 'watchara', 'buttho', 'watchara.png', 'koko', 1, 'kokostudio@hotmail.com', '0866396298', '0866396298', '', 1, 1, '2019-05-03 09:42:41', '2019-05-04 03:32:08');
+(3, '777777', 'Manage', 'test', '330333.jpg', 'Manage', 1, 'manage@test.com', '', '', '', 69, 1, '2018-11-22 08:05:48', '2018-12-14 07:48:20');
 
 --
 -- Indexes for dumped tables
