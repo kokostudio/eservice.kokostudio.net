@@ -40,8 +40,9 @@
 <file name="manage.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132035790720023825" remote="132035538600000000" Dst="0" />
 <file name="request_manage.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132011477400000000" remote="132011477400000000" Dst="0" />
 <file name="computers.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132035896342760983" remote="132035644200000000" Dst="0" />
-<file name="dashboard.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132007872000000000" remote="132007872000000000" Dst="0" />
-<file name="index.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132013213800000000" remote="132013213800000000" Dst="0" />
+<file name="dashboard.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132168814884170420" remote="132168562800000000" Dst="0" />
+<file name="index.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132168809292232561" remote="132168556800000000" Dst="0" />
 <file name=".htaccess" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="131995620000000000" remote="131995620000000000" Dst="0" />
 <file name="log.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132013962000000000" remote="132013962000000000" Dst="0" />
+<file name="category.php" server="eservice.kokostudio.net//domains/eservice.kokostudio.net/public_html/" local="132013930200000000" remote="132013930200000000" Dst="0" />
 </dwsync>

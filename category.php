@@ -51,8 +51,13 @@
                   <div class="col col-md-6">
                     <div class="text-left h4">จัดการหมวดหมู่</div>
                   </div>
-                  <div class="col col-md-6">
-                    <a href="?act=add" class="d-sm-inline-block btn btn-sm btn-success shadow-sm fa-pull-right"><i class="fas fa-plus fa-sm text-white-50"></i> เพิ่ม</a><!--d-none d-sm-inline-block btn btn-sm btn-success shadow-sm fa-pull-right-->
+                  <div class="col col-md-6 col-sm-12 text-right">
+                    <a href="?act=add" class="d-sm-inline-block btn btn-sm btn-success shadow-sm">
+                      <i class="fas fa-plus mr-2"></i>เพิ่ม
+                    </a>
+                    <a href="?act=print" class="d-sm-inline-block btn btn-sm btn-secondary shadow-sm">
+                      <i class="fas fa-print mr-2"></i>พิมพ์
+                    </a>
                   </div>
                 </div>
               </div>

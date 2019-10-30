@@ -1,6 +1,6 @@
-//เปิด-ปิด alert
+<script>
 $(document).ready(function(){
-  $('.alert').fadeIn(1000);
+  $('.page-alert').fadeIn(1000);
 }),
   $(document).ready(function(){
   window.setTimeout(function(){
@@ -8,3 +8,4 @@ $(document).ready(function(){
       $(this).remove()
     })},2e3)
 });
+</script>  

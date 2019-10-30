@@ -24,13 +24,10 @@
   <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-pro/css/all.min.css">
   <link rel="stylesheet" href="node_modules/datatables.net-bs4/css/dataTables.bootstrap4.min.css">
-  <link rel="stylesheet" href="public/css/custom.css_">
-  <!-- Custom styles for this template-->  
+  <!-- Google Font-->  
   <link href="https://fonts.googleapis.com/css?family=Prompt:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
-  
   <!-- Custom styles for this template-->
   <link rel="stylesheet" href="public/css/sb-admin-2.css" >
-
   <style>
     body, html {
       height: 100%;
@@ -50,7 +47,6 @@
     a:hover {
       text-decoration: none;
     }
-    
   </style>
 </head>
 <body>
